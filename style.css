@@ -10,3 +10,6 @@
 .container_text>h3{
     padding-top: 30px;
 }
+.container_biglietto>img{
+    border-radius: 10px;
+}

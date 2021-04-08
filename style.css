@@ -1,0 +1,12 @@
+.container_text{
+    width: 90vw;
+    height: 90vh;
+
+    background-color: antiquewhite;
+    border-radius: 5px;
+    margin: auto;
+}
+
+.container_text>h3{
+    padding-top: 30px;
+}
